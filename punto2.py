@@ -8,4 +8,4 @@ valor = input("digite el valor: ")
 
 print ("ganacias")
 ganancia = conversion*int(valor)
-print (f'la ganancia del productor es {ganancia}')
+print (f'ganancia del productor  {ganancia}')
